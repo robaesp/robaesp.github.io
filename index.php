@@ -1,3 +1,6 @@
+<?php
+echo "Hola desde Php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
